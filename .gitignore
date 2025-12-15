@@ -1,0 +1,9 @@
+# Ignore APK build output
+App-Frontend/StayFindz.apk
+.env
+.apk
+node_modules/
+*.log
+.DS_Store
+build/
+dist/
