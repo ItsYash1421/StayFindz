@@ -1,6 +1,6 @@
 # StayFinderMobile
 
-A native iOS app for StayFinder, built with React Native and Expo.
+A native iOS and Android app for StayFinder, built with React Native and Expo.
 
 ## Features
 
