@@ -50,6 +50,4 @@ StayFinderMobile/
 
 - Google login and push notifications are ready for integration (see components/).
 
----
 
-Built with ❤️ for StayFinder.
