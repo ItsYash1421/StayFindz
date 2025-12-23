@@ -40,6 +40,7 @@ StayFinderMobile/
 
 - Update `constants/api.js` with your backend URL.
 - All API calls use Axios.
+- Backend for app + web
 
 ## Theming
 
