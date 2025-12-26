@@ -48,6 +48,6 @@ StayFinderMobile/
 
 ## Placeholders
 
-- Google login and push notifications are ready for integration (see components/).
+- Google login and push notifications are ready for integration (see components/)
 
 
