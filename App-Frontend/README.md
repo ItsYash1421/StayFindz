@@ -44,7 +44,7 @@ StayFinderMobile/
 
 ## Theming
 
-- Colors and fonts are defined in `constants/theme.js` for consistency with the web app.
+- Colors and fonts are defined in `constants/theme.js` for consistency with the web app
 
 ## Placeholders
 
