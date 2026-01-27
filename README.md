@@ -17,7 +17,7 @@
 
 - 📅 **Book a Stay**
   - Request bookings with check-in/check-out dates and guest count.
-  - Supports auto-confirm or host-approved bookings.
+  - Supports auto-confirm or host-approved bookings
 
 - 📦 **Track Booking Status**
   - See live updates of your booking states:
