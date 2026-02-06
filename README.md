@@ -5,8 +5,8 @@
 ## 🚀 Features
 
 - 🔍 **Browse Listings**
-  - Search stays based on location, category, and price filters.
-  - Filter properties by type (apartments, villas, hotels, etc.).
+  - Search stays based on location, category, and price filters
+  - Filter properties by type (apartments, villas, hotels, etc.)
 
 - 🏡 **View Property Details**
   - Access listing pages with full details:
